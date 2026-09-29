@@ -1,0 +1,4 @@
+# Links Core 核心依赖（无任何 UI 依赖）
+torch            # CPU 版即可: pip install torch --index-url https://download.pytorch.org/whl/cpu
+python-chess     # 棋规/走法生成（UCI 协议）
+numpy
